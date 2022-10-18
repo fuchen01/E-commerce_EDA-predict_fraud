@@ -1,6 +1,6 @@
 # E-commerce_EDA-predict_fraud
 
-he goal of this project is to build a machine learning model that predicts the probability that the first transaction of a new user is fraudulent.
+💼the goal of this project is to build a machine learning model that predicts the probability that the first transaction of a new user is fraudulent.
 
 here is the data variable explaination:
 
